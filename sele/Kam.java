@@ -4,5 +4,6 @@ public class Kam {
     int b=4;
    int sum=a+b;
     System.out.println(sum);
+    System.out.print(a);
   }
 }
